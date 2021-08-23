@@ -29,6 +29,9 @@ img {
     border: 2px solid whitesmoke;
     box-shadow: 10px 13px 15px 10px whitesmoke
 }
+.colored {
+  color: pink; 
+}
 
 
 @-webkit-keyframes rotating /* Safari and Chrome */ {
